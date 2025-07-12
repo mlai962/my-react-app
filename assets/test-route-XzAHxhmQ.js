@@ -1,0 +1,1 @@
+import{o as t,w as e}from"./chunk-QMGIS6GS-hoMvXFpG.js";function s(){return t.jsx("main",{className:"flex p-8",children:t.jsx("h1",{children:"test route"})})}const r=e(function(){return t.jsx(s,{})});export{r as default};
