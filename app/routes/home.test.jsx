@@ -22,4 +22,8 @@ describe("home.tsx tests", () => {
   it("renders 'What's next?' text", () => {
     expect(screen.getByText("What's next?")).toBeInTheDocument();
   });
+
+  it("renders 'Join Discord' text", () => {
+    expect(screen.getByText("Join Discord")).toBeInTheDocument();
+  });
 });
